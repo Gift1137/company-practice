@@ -1,0 +1,47 @@
+
+.company-logo {
+	width="200px"; 
+	height="150px";
+}
+
+span {
+	color:blue;
+}
+
+.little-fonts {
+	font-size: .8rem;
+}
+
+.bigger-font-size{
+	font-size:1.1rem;
+}
+
+.insight-body-p {
+	font-size:1.1rem;
+	color:white;
+}
+
+button a {
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+}
+
+
+
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
